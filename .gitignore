@@ -1,4 +1,6 @@
 *.log
+.env
+tmp/
 log/
 .vscode/*
 !.vscode/settings.json
